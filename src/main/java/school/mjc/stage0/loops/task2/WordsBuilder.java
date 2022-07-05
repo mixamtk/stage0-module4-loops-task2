@@ -8,7 +8,7 @@ public class WordsBuilder {
                 result.append(chars[startnumWhile]);
             startnumWhile++;
             }
-            System.out.println(result);
+            System.out.print(result);
 
     }
 }
